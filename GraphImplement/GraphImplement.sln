@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphImplement", "GraphImplement\GraphImplement.csproj", "{EAC0F852-1E4F-4E0F-86E4-17885D7C3137}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAC0F852-1E4F-4E0F-86E4-17885D7C3137}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAC0F852-1E4F-4E0F-86E4-17885D7C3137}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAC0F852-1E4F-4E0F-86E4-17885D7C3137}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAC0F852-1E4F-4E0F-86E4-17885D7C3137}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4025C955-31D2-4310-9128-D417FEC3F71C}
+	EndGlobalSection
+EndGlobal
